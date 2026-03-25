@@ -1,4 +1,4 @@
-# QMETA — QIIME2 Interactive Metagenomics Pipeline
+# QMETA - QIIME2 Metagenomics Analysis
 
 An interactive, step-by-step Python pipeline for 16S/ITS amplicon metagenomics analysis built on top of [QIIME2](https://qiime2.org/). The pipeline guides the user through the entire workflow — from raw FASTQ import to differential abundance analysis — with interactive prompts at each step and the ability to resume from existing intermediate outputs.
 
